@@ -1,0 +1,8 @@
+@inproceedings{compton2022entropic,
+  title={Entropic causal inference: Graph identifiability},
+  author={Compton, Spencer and Greenewald, Kristjan and Katz, Dmitriy A and Kocaoglu, Murat},
+  booktitle={International Conference on Machine Learning},
+  pages={4311--4343},
+  year={2022},
+  organization={PMLR}
+}
