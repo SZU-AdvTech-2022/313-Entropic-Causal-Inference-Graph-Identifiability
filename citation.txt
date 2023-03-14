@@ -1,0 +1,8 @@
+@inproceedings{REPO-314,
+    author = "Compton, Spencer and Greenewald, Kristjan and Katz, Dmitriy A and Kocaoglu, Murat",
+    booktitle = "International Conference on Machine Learning",
+    organization = "PMLR",
+    pages = "4311--4343",
+    title = "{Entropic causal inference: Graph identifiability}",
+    year = "2022"
+}
